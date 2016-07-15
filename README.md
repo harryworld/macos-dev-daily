@@ -4,6 +4,7 @@ OS X -> macOS
 ## Table of Content
 
 - Language
+  - Swift 3
 - Tools
 - Interface Builder
 - Frameworks
@@ -13,3 +14,6 @@ OS X -> macOS
   - AVFoundation
 - Testing
 - Package Manager
+  - CocoaPods
+  - Carthage
+  - Swift Package Manager
