@@ -4,3 +4,9 @@
 [submodule "4.1 NSCollectionView/NSCollectionView-DragDrop"]
 	path = 4.1 NSCollectionView/NSCollectionView-DragDrop
 	url = git@github.com:harryworld/NSCollectionView-DragDrop.git
+[submodule "4.3 AVKit/BasicVideoPlayer"]
+	path = 4.3 AVKit/BasicVideoPlayer
+	url = git@github.com:harryworld/BasicVideoPlayer.git
+[submodule "7.1 Reactive Programming/RxSwiftMac"]
+	path = 7.1 Reactive Programming/RxSwiftMac
+	url = git@github.com:harryworld/RxSwiftMac.git
