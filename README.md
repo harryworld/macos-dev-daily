@@ -26,12 +26,14 @@ OS X -> macOS
   - CocoaPods
   - Carthage
   - Swift Package Manager
+- Third-party Libraries
+  - Reactive Programming
 
 ## Equipments
 
 - MacBook Air 11"
-- External Monitor
-- iPhone 6S (Microphone)
+- External Monitor (1080p)
+- Blue Yeti Silver Microphone
 
 ## References
 
