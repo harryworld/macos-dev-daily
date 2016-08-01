@@ -3,9 +3,10 @@ OS X -> macOS
 
 ## Table of Content
 
-- Language
+1. Language
   - Swift 3
 - Tools
+  - Xcode
 - Interface Builder
   - Storyboard
   - Auto Layout
@@ -14,6 +15,7 @@ OS X -> macOS
     - NSCollectionView
     - NSTableView
     - NSOutlineView
+    - NSScrollView
     - NSTextField
     - NSTextView
   - CloudKit
@@ -33,7 +35,7 @@ OS X -> macOS
 
 - MacBook Air 11"
 - External Monitor (1080p)
-- Blue Yeti Silver Microphone
+- Blue Yeti Black Microphone
 
 ## References
 
