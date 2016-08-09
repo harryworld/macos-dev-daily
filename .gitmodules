@@ -13,3 +13,6 @@
 [submodule "4.1.5 NSTextField/NSTextField"]
 	path = 4.1.5 NSTextField/NSTextField
 	url = git@github.com:harryworld/NSTextField.git
+[submodule "4.1.1 NSCollectionView/NSCollectionViewItem"]
+	path = 4.1.1 NSCollectionView/NSCollectionViewItem
+	url = git@github.com:harryworld/NSCollectionViewItem.git
