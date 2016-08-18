@@ -1,8 +1,8 @@
-[submodule "4.1 NSCollectionView/NSCollectionView-Header-Footer"]
-	path = 4.1 NSCollectionView/NSCollectionView-Header-Footer
+[submodule "4.1.1 NSCollectionView/NSCollectionView-Header-Footer"]
+	path = 4.1.1 NSCollectionView/NSCollectionView-Header-Footer
 	url = git@github.com:harryworld/NSCollectionView-Header-Footer.git
-[submodule "4.1 NSCollectionView/NSCollectionView-DragDrop"]
-	path = 4.1 NSCollectionView/NSCollectionView-DragDrop
+[submodule "4.1.1 NSCollectionView/NSCollectionView-DragDrop"]
+	path = 4.1.1 NSCollectionView/NSCollectionView-DragDrop
 	url = git@github.com:harryworld/NSCollectionView-DragDrop.git
 [submodule "4.3 AVKit/BasicVideoPlayer"]
 	path = 4.3 AVKit/BasicVideoPlayer
